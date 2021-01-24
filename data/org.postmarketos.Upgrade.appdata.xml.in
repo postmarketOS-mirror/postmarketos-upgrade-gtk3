@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop">
+	<id>org.postmarketos.Upgrade.desktop</id>
+	<metadata_license>CC0-1.0</metadata_license>
+	<name>Upgrade available</name>
+	<summary>Instructions on how to upgrade between stable releases</summary>
+	<description>
+		<p>This app provides a link to instructions on how to upgrade between stable releases of postmarketOS.</p>
+	</description>
+	<project_license>GPL-3.0-or-later</project_license>
+</component>

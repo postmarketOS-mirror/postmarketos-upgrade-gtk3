@@ -1,0 +1,7 @@
+data/org.postmarketos.Upgrade.desktop.in
+data/org.postmarketos.Upgrade.appdata.xml.in
+data/org.postmarketos.Upgrade.gschema.xml
+src/postmarketos_upgrade-window.ui
+src/main.c
+src/postmarketos_upgrade-window.c
+

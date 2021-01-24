@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Upgrade
+Exec=postmarketos-upgrade
+Icon=org.postmarketos.Upgrade
+Terminal=false
+Type=Application
+Categories=GTK;
+StartupNotify=true
